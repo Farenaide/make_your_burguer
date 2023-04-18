@@ -29,7 +29,7 @@
 		display: flex;
 		align-items: center;
 		justify-content: flex-end;
-		font-size: 40px;
+		font-size: 30px;
 	}
 
 	.logo-burguer{
@@ -44,8 +44,8 @@
 	}
 
 	nav img{
-		width: 80px;
-		height: 80px;
+		width: 50px;
+		height: 50px;
 	}
 
 	nav a {
@@ -64,7 +64,7 @@
 		font-family: Verdana, Geneva, Tahoma, sans-serif;
 		margin: 0;
 		margin-left: 15px;
-		font-size: 30px;
+		font-size: 25px;
 	}
 
 </style>
