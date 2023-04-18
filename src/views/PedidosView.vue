@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <h1>This is an pedidos page</h1>
-  </div>
+	<div class="main-container">
+		<h1>This is an pedidos page</h1>
+	</div>
 </template>
 
 <style>
